@@ -1,0 +1,5 @@
+2026-05-10; cliente=ana; responsable=carlos; propiedad=prop_5d7a2f3ae5c0; operacion=compra; ubicacion=Armenia; precio=300000000; estado=completada
+2026-05-11; cliente=anam; responsable=oscar; propiedad=prop_1a4d0c0aee9e; operacion=compra; ubicacion=Armenia; precio=120000000; estado=completada
+2026-05-11; cliente=anam; responsable=oscar; propiedad=prop_68c4ff32f283; operacion=arriendo; ubicacion=La Tebaida; precio=12000000; estado=completada
+2026-05-12; cliente=anam; responsable=oscar; propiedad=prop_1a4d0c0aee9e; operacion=compra; ubicacion=Armenia; precio=120000000; estado=completada
+2026-05-26; cliente=laura; responsable=pedro; propiedad=prop_20d0499ee6ff; operacion=compra; ubicacion=Armenia; precio=12; estado=completada
